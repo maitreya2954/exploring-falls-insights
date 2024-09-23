@@ -42,8 +42,6 @@ The performance of the LDA and clustering models is evaluated using metrics such
 
 The LDA model achieved an overall classification accuracy of **81%**, outperforming the K-Means clustering model, which had an accuracy of **72%**. Both models demonstrated notable challenges in classifying specific injury types, particularly sprains, due to limited data representation.
 
-
-
 ## Conclusion
 
 This project demonstrates the feasibility of using unsupervised learning techniques to extract insights and classify injury-related medical narratives. The insights gained from these narratives could inform healthcare interventions, such as safety programs and educational initiatives. Future work should focus on improving model performance for underrepresented injury types and exploring automated evaluation methods using advanced language models.
@@ -52,7 +50,3 @@ This project demonstrates the feasibility of using unsupervised learning techniq
 
 1. Siddharth Rayabharam, Dr. Sayed Mohsin Reza, and Dr. Md Faisal Kabir. *Exploring insights and tagging medical narratives using unsupervised learning*. COMP594 Final Paper, Pennsylvania State University.
 2. [National Electronic Injury Surveillance System (NEISS)](https://health.gov/healthypeople/objectives-and-data/data-sources-and-methods/data-sources/national-electronic-injury-surveillance-system-all-injury-program-neiss-aip)
-
----
-
-Feel free to modify or expand on this based on your specific needs!
